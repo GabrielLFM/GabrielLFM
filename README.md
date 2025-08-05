@@ -1,12 +1,12 @@
-<h1 align="center">Lucas Corrêa</h1>
+<h1 align="center">Gabriel Luciano</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack · Professor de TI · Especialista em Produto Digital
+  Desenvolvedor · Estudante de TI 
 </p>
 
 ---
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 ---
 
