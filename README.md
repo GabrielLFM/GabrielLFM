@@ -12,24 +12,16 @@
 
 ## Sobre
 
-- Atuação em desenvolvimento full stack com JavaScript e TypeScript
-- Professor de Tecnologia no SENAI e SENAC; criador do canal Professor Corrêa
-- Especialista em acessibilidade, UI/UX, clean code e liderança de produtos digitais
-- Pós-graduação em Engenharia de Software e Digital Product Leadership
-- Experiência em automação de processos e integração de sistemas utilizando Python
-
-## Projetos em destaque
-
-- [Toque AI](https://toqueai.com.br/) – Plataforma de QR Code para identificação e gestão de pets, pessoas e objetos
-- [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
-- [Code Trouble](https://codetrouble.com.br) – Comunidade aberta para desenvolvedores e troca de conhecimento
+- Estudante de Desenvolvimento de Sistemas no SENAI
+- Em formação na área de tecnologia, com foco nos fundamentos de programação, lógica e desenvolvimento de software
+- Buscando adquirir experiência prática e ampliar conhecimentos em linguagens de programação, banco de dados e desenvolvimento web
+- Interessado em aprender sobre criação de interfaces, automação e boas práticas no desenvolvimento de sistemas
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
-- [Suporte de Domingo](https://suportededomingo.com.br/)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-luciano-32380a349/)
 - [Portfólio](https://professorcorrea.com.br/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
+- [Instagram](https://www.instagram.com/luci4n0.m3lo/)
 
 ---
 
