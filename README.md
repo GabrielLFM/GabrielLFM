@@ -33,4 +33,4 @@
 
 ---
 
-> Educar é tornar o saber algo com voz, sentido e sentimento.
+> "A educação é a arma mais poderosa que você pode usar para mudar o mundo." - Nelson Mandela 
