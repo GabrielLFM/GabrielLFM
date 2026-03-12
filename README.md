@@ -13,7 +13,7 @@ E aí, tudo bem? Eu sou o **Gabriel Luciano**, estudante de Desenvolvimento de S
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a> 
   <br/>
-  <a href="https://www.linkedin.com/in/silas-prata-pereira-8b636534a/">
+  <a href="https://www.linkedin.com/in/gabriel-luciano-679098381/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
