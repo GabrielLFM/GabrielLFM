@@ -1,28 +1,56 @@
-<h1 align="center">Gabriel Luciano</h1>
+# Olá 👋, Eu sou Gabriel Luciano
 
-<p align="center">
-  Desenvolvedor · Estudante de TI 
+🇧🇷 Brazil
+
+E aí, tudo bem? Eu sou o **Gabriel Luciano**, estudante de Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro. Atualmente, estou concentrando meus estudos e projetos para me tornar um Desenvolvedor Back-end, buscando entender profundamente como construir sistemas seguros, eficientes e escaláveis.
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/GabrielLFM">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a> 
+  <br/>
+  <a href="https://www.linkedin.com/in/silas-prata-pereira-8b636534a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
+## 🛠️ Tecnologias
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs) -->
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black)
+
 
 ---
 
-## Sobre
+## 📊 GitHub Stats
 
-- Estudante de Desenvolvimento de Sistemas no SENAI
-- Em formação na área de tecnologia, com foco nos fundamentos de programação, lógica e desenvolvimento de software
-- Buscando adquirir experiência prática e ampliar conhecimentos em linguagens de programação, banco de dados e desenvolvimento web
-- Interessado em aprender sobre criação de interfaces, automação e boas práticas no desenvolvimento de sistemas
+<div align="center"> 
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=GabrieLFM&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-## Contato
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielLFM&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-luciano-32380a349/)
-- [Portfólio](https://professorcorrea.com.br/)
-- [Instagram](https://www.instagram.com/luci4n0.m3lo/)
+</div>
 
----
 
-> "A educação é a arma mais poderosa que você pode usar para mudar o mundo." - Nelson Mandela 
+
+
+
+
