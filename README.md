@@ -49,8 +49,3 @@ E aí, tudo bem? Eu sou o **Gabriel Luciano**, estudante de Desenvolvimento de S
 
 </div>
 
-
-
-
-
-
