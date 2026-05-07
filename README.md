@@ -48,4 +48,3 @@ E aí, tudo bem? Eu sou o **Gabriel Luciano**, estudante de Desenvolvimento de S
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielLFM&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
